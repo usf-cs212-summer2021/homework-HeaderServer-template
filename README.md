@@ -1,8 +1,6 @@
 HeaderServer
 =================================================
 
-![Points](../../blob/badges/points.svg)
-
 For this homework, you will create a simple Jetty web server that allows users enter a URL and view the HTTP headers for that URL.
 
 Specifically, you must do the following for this assignment:
