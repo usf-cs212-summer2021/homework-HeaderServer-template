@@ -38,47 +38,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 3,
-      "points": 20
-    },
-    {
-      "name": "Running Group B Tests",
-      "setup": "",
-      "run": "bash run_test.sh B",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 20
-    },
-    {
-      "name": "Running Group C Tests",
-      "setup": "",
-      "run": "bash run_test.sh C",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 20
-    },
-    {
-      "name": "Running Group D Tests",
-      "setup": "",
-      "run": "bash run_test.sh D",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 20
-    },
-    {
-      "name": "Running Group E Tests",
-      "setup": "",
-      "run": "bash run_test.sh E",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 10
+      "points": 90
     }
   ]
 }
