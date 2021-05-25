@@ -15,6 +15,10 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  * Creates a web server to allow users to fetch HTTP headers for a URL.
+ * 
+ * @author CS 212 Software Development
+ * @author University of San Francisco
+ * @version Summer 2021
  */
 public class HeaderServer {
 	/**
